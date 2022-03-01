@@ -11,5 +11,7 @@ folder node_modules tidak disertakan:
 
 URL [http://localhost:3000](http://localhost:3000)
 
+Username: admin
+Password: admin
 
 **Screenshot:**
