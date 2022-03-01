@@ -27,3 +27,5 @@ NotWorking:
 **Screenshot:**
 Token berubah tiap 4 detik:
 ![alt tag](https://github.com/zidni-bwi/react-dashboard-jwt/blob/main/Screenshot_5.png)
+Refresh token dikirim tiap client melakukan refresh:
+![alt tag](https://github.com/zidni-bwi/react-dashboard-jwt/blob/main/Screenshot_5.png)
