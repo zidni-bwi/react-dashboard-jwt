@@ -19,7 +19,7 @@ Password: admin
 Working:
 - Login dengan JWT tapi tersimpan di LocalStorage
 - Token Expired tiap 4 Detik auto refresh
-- Reusable UI component (ex: Card)
+- Reusable UI component (ex: Card, CardProducts)
 
 NotWorking:
 - Redux Global State
