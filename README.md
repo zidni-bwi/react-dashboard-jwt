@@ -15,6 +15,13 @@ Username: admin
 
 Password: admin
 
-Token Expired tiap 4 Detik
+Working:
+- Login JWT tersimpan di LocalStorage
+- Token Expired tiap 4 Detik auto refresh
+- Reusable UI component (ex: Card)
+
+NotWorking:
+- Redux Global State
+- Redux CRUD
 
 **Screenshot:**
