@@ -32,4 +32,4 @@ Refresh token dikirim tiap client melakukan refresh:
 Percobaan store state global menggunakan Redux tapi belum berhasil untuk melakukan update:
 ![alt tag](https://github.com/zidni-bwi/react-dashboard-jwt/blob/main/Screenshot_8.png)
 Tampilan Dashboard:
-![alt tag](https://github.com/zidni-bwi/react-dashboard-jwt/blob/main/Screenshot_8.png)
+![alt tag](https://github.com/zidni-bwi/react-dashboard-jwt/blob/main/Screenshot_9.png)
