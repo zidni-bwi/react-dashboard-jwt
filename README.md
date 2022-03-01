@@ -25,3 +25,5 @@ NotWorking:
 - Redux CRUD
 
 **Screenshot:**
+Token berubah tiap 4 detik:
+![alt tag](https://github.com/zidni-bwi/react-dashboard-jwt/blob/main/Screenshot_5.png)
